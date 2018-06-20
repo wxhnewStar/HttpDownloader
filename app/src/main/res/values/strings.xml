@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">HttpDownloader</string>
+<string name="url">请输入您想要下载的资源所在的URL</string>
+<string name="html">html下载中......</string>
+<string name="image">image下载中....</string>
+<string name="html_locate">下载还未结束...</string>
+    </resources>
