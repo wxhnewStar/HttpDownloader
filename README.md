@@ -1,4 +1,6 @@
 # HttpDownloader
 netCode homework
+>这是147的互联网编程其中一个作业
+>实现了访问网页的功能
+>本来还应该实现下载网页源码的功能，**由于当时时间原因，出现的原因也不知道原因，又没有android手机所以就没弄了，有空再加
 
-* try hard and make better
